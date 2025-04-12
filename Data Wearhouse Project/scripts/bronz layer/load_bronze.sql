@@ -49,6 +49,7 @@ BEGIN
     RAISE NOTICE 'Loading ERP Tables';
     RAISE NOTICE '------------------------------------------------';
 
+
 	RAISE NOTICE '>> Truncating Table: bronze.erp_cust_az12';
     TRUNCATE TABLE bronze.erp_cust_az12;
 
@@ -73,6 +74,7 @@ BEGIN
         HEADER,
         DELIMITER ','
     );
+
 
 	RAISE NOTICE '>> Truncating Table: bronze.erp_loc_a101';
     TRUNCATE TABLE bronze.erp_loc_a10;
