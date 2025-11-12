@@ -14,6 +14,7 @@ Parameters:
 
 Usage Example:
     CALL bronze.load_bronze();
+===============================================================================
 *\
 
 CREATE OR REPLACE PROCEDURE bronze.load_bronze()
