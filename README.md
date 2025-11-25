@@ -12,18 +12,21 @@ Here you will find:
 
 ## 🧩 Projects Included
 
-- **FACTORS INFLUENCING TOLERANCE TOWARDS IMMIGRANTS: A DATA ANALYSIS IN R AND PYTHON** — This project explores techniques for data processing, analysis, and
+**FACTORS INFLUENCING TOLERANCE TOWARDS IMMIGRANTS: A DATA ANALYSIS IN R AND PYTHON** 
+- This project explores techniques for data processing, analysis, and
 visualization using the R and Python programming languages. Fundamental
 statistical methods were applied, relevant visualizations were created, and
 insights were extracted from the analyzed datasets.
 
-- **HR DASHBOARD IN TABLEAU** — Developed an interactive Tableau dashboard offering a comprehensive
+**HR DASHBOARD IN TABLEAU**
+Developed an interactive Tableau dashboard offering a comprehensive
 view of HR KPIs. The project involved building dynamic visualizations,
 implementing intuitive navigation elements, and designing flexible filters.
 One of the main challenges was effectively organizing a large number of
 charts within a single dashboard while maintaining clarity and usability
 
-- **SALARY CLASSIFICATION USING DECISION TREES IN R** — Developed predictive models to classify salary levels using
+**SALARY CLASSIFICATION USING DECISION TREES IN R**
+Developed predictive models to classify salary levels using
 socio-demographic variables from the 1976 Current Population Survey.
 Performed comprehensive data preprocessing, including feature
 engineering, discretization of continuous variables, correlation analysis,
