@@ -1,13 +1,13 @@
 # 👋 Welcome to My Repository
 
 Hello, wondering stranger, and welcome!  
-This space contains my personal projects, each reflecting my learning journey, experiments, and ideas in development.
+This space contains my personal projects, each reflecting my learning journey.
 
 ## 🚀 About This Repository
 
 Here you will find:
 - A collection of my projects
-- Brief descriptions of what each project does
+- Brief descriptions of what each project is.
 
 
 ## 🧩 Projects Included
