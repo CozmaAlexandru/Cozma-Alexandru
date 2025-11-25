@@ -9,39 +9,56 @@ Here you will find:
 - A collection of my projects
 - Brief descriptions of what each project is.
 
+---
 
-## 🧩 Projects Included
+# 🧩 Projects
 
-- **FACTORS INFLUENCING TOLERANCE TOWARDS IMMIGRANTS: A DATA ANALYSIS IN R AND PYTHON** -
-This project explores techniques for data processing, analysis, and
-visualization using the R and Python programming languages. Fundamental
-statistical methods were applied, relevant visualizations were created, and
-insights were extracted from the analyzed datasets.
+## 1. Factors Influencing Tolerance Towards Immigrants  
+### *A Data Analysis in R and Python*
+This project explores techniques for data processing, analysis, and visualization using both R and Python.  
+Key components include:
+- Cleaning and preprocessing multiple datasets  
+- Applying fundamental statistical methods  
+- Building meaningful visualizations  
+- Extracting insights from sociological and demographic variables  
 
--**HR DASHBOARD IN TABLEAU**-
-Developed an interactive Tableau dashboard offering a comprehensive
-view of HR KPIs. The project involved building dynamic visualizations,
-implementing intuitive navigation elements, and designing flexible filters.
-One of the main challenges was effectively organizing a large number of
-charts within a single dashboard while maintaining clarity and usability
+---
 
--**SALARY CLASSIFICATION USING DECISION TREES IN R**-
-Developed predictive models to classify salary levels using
-socio-demographic variables from the 1976 Current Population Survey.
-Performed comprehensive data preprocessing, including feature
-engineering, discretization of continuous variables, correlation analysis,
-and Cramer’s V–based feature selection, along with converting dummy
-variables into categorical features. Implemented and compared three
-decision tree algorithms in R, utilizing packages such as ggplot2, rpart,
-caret, and CHAID.
--**SALES DATA WAREHOUSE WITH POSTGRESQL** — 
-Designed and implemented a scalable data warehouse using a
-medallion architecture to integrate customer, sales, and order datasets.
-Developed end-to-end ETL pipelines for data extraction, cleaning,
-transformation, and aggregation across all layers, and modeled the
-warehouse using a star schema. Incorporated data quality checks and
-validation rules throughout the process.
+## 2. HR Dashboard in Tableau  
+### *Interactive Visualization of HR KPIs*
+This project focuses on designing a fully interactive dashboard for analyzing HR performance indicators.  
+Main highlights:
+- Creation of dynamic charts and filtering options  
+- Implementation of intuitive navigation elements  
+- Structuring a large volume of visualizations while maintaining clarity and usability  
+- Enhancing user experience through well-defined KPIs and layout optimization  
 
+---
+
+## 3. Salary Classification Using Decision Trees in R  
+### *Predictive Modeling on Socio-Demographic Data*
+A machine learning project based on the 1976 Current Population Survey dataset.  
+The workflow includes:
+- Data preprocessing and feature engineering  
+- Discretization of continuous variables  
+- Correlation analysis and Cramer’s V–based feature selection  
+- Reformatting dummy variables into categorical features  
+- Implementing and comparing multiple decision tree algorithms using:  
+  - **ggplot2**, **rpart**, **caret**, **CHAID**
+
+---
+
+## 4. Sales Data Warehouse with PostgreSQL  
+### *Medallion Architecture & ETL Pipeline Development*
+This project showcases the design of a scalable data warehouse for sales and customer analytics.  
+Key components:
+- End-to-end ETL pipelines (extraction, cleaning, transformation, aggregation)  
+- Integration of customer, sales, and order datasets  
+- Modeling using a **star schema**  
+- Implementing validation rules and data quality checks  
+- Organizing the system using a **medallion architecture** (Bronze → Silver → Gold)
+
+---
 
 ## 📬 Contact
 Gmail: cozmaalex0901@gmail.com
